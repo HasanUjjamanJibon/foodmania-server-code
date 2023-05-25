@@ -1,0 +1,74 @@
+[
+  {
+    "id": 1111,
+    "chef_picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcShWLF1nkb2U5Aa4v2CbUB5vBZ5CyGm0EtEYA&usqp=CAU",
+    "chef_name": "Amanda Davis",
+    "years_of_experience": 18,
+    "num_recipes": 3,
+    "likes": 600,
+    "bio": "Chef Amanda Davis is a rising star in the culinary world with a passion for creating innovative and delicious dishes. Her culinary journey began at a young age, growing up in a family of chefs and food enthusiasts. Chef Davis has honed her craft in some of the finest kitchens in the country, learning from the best chefs and gaining invaluable experience. She is known for her unique approach to cooking, combining classic flavors with unexpected ingredients to create dishes that are both comforting and adventurous. Chef Davis is a fierce advocate for sustainability and is committed to using locally sourced ingredients in her cooking."
+  },
+  {
+    "id": 2222,
+    "chef_picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ1kdXfOg7WNUUXE3QRVE2DRT0uv9p38DzSiA&usqp=CAU",
+    "chef_name": "Brian Adams",
+    "years_of_experience": 15,
+    "num_recipes": 4,
+    "likes": 1200,
+    "bio": "Chef Brian Adams is a seasoned chef with over 15 years of experience in the culinary industry. He has trained under some of the most renowned chefs in the country and has developed a unique cooking style that blends classic techniques with modern twists. Chef Adams is known for his passion for using locally sourced ingredients to create dishes that highlight the flavors of the region. He takes inspiration from his travels around the world and incorporates international flavors into his cooking. Chef Adams has won numerous awards and recognition for his exceptional culinary creations."
+  },
+  {
+    "id": 3333,
+    "chef_picture": "https://yt3.googleusercontent.com/pJu36UvHR2AqqLQ99O8iF5776dA8J_wrsqT2m-IuaJ9MEsiXgnTeH_cKApxsygFuIGyrUxIXRw=s900-c-k-c0x00ffffff-no-rj",
+    "chef_name": "Lidia Bastianich",
+    "years_of_experience": 40,
+    "num_recipes": 3,
+    "likes": 800,
+    "bio": "Chef Lidia Bastianich is an Italian-American culinary expert with over 40 years of experience in the industry. She is known for her authentic Italian cuisine and her passion for using fresh, locally sourced ingredients. Chef Bastianich has written several cookbooks and hosted multiple cooking shows, sharing her expertise and love of food with audiences around the world. Her signature dishes include homemade pasta, risotto, and fresh seafood, and she continues to inspire chefs and home cooks alike with her innovative and delicious recipes."
+  },
+  {
+    "id": 4444,
+    "chef_picture": "https://www.finedininglovers.com/sites/g/files/xknfdk626/files/2021-05/Catherine_ann_cora_%C2%A9courtesyofCatherineAnnCora_0.jpg",
+    "chef_name": "Emily Brown",
+    "years_of_experience": 12,
+    "num_recipes": 5,
+    "likes": 400,
+    "bio": "Emily Brown is a rising star in the culinary world, with a passion for creating healthy and flavorful dishes. She graduated from the prestigious Le Cordon Bleu culinary school and has since worked in some of the best kitchens in the country. Emily's cooking style is influenced by her travels around the world, and she is known for her creative use of spices and herbs. In her free time, she enjoys gardening and experimenting with new ingredients in the kitchen."
+  },
+  {
+    "id": 5555,
+    "chef_picture": "https://media.licdn.com/dms/image/C5603AQGuW0ODwDmqZw/profile-displayphoto-shrink_800_800/0/1517275956165?e=2147483647&v=beta&t=JkVFWq5ANlYNm2X1BUfmKkk7v0mzIna5LRhbJpskCFA",
+    "chef_name": "James Anderson",
+    "years_of_experience": 12,
+    "num_recipes": 3,
+    "likes": 1000,
+    "bio": "Chef James Anderson has over 12 years of experience in the culinary industry, specializing in French cuisine. He honed his skills at some of the top restaurants in Paris before moving to the United States to share his expertise. Chef Anderson's passion for using the freshest ingredients, combined with his extensive knowledge of classic French cooking techniques, has earned him a reputation as one of the most talented chefs in the country. He is always experimenting with new flavors and ingredients to create dishes that are both delicious and innovative."
+  },
+  {
+    "id": 6666,
+    "chef_picture": "https://media.licdn.com/dms/image/C5603AQGk-HAQbesgNw/profile-displayphoto-shrink_800_800/0/1516768207155?e=2147483647&v=beta&t=VQckK4WVpsZctWjynSYfi59gIohwQusRQJJbG5ST5Pk",
+    "chef_name": "Laura Martin",
+    "years_of_experience": 20,
+    "num_recipes": 3,
+    "likes": 700,
+    "bio": "Chef Laura Martin is a rising star in the culinary world. With a passion for using fresh, locally sourced ingredients, she creates dishes that are both delicious and sustainable. Her innovative approach to cooking has earned her numerous awards and accolades, and she is known for her ability to take classic recipes and put her own unique spin on them. When she's not in the kitchen, you can find her exploring local farmers' markets or teaching cooking classes to aspiring chefs."
+  },
+  {
+    "id": 7777,
+    "chef_picture": "https://i.pinimg.com/736x/4f/90/fe/4f90fea7ec062b143d39a12855b4ee5d--melissa-mccarthy-stars-hollow.jpg",
+    "chef_name": "Melissa Jackson",
+    "years_of_experience": 15,
+    "num_recipes": 5,
+    "likes": 1500,
+    "bio": "Melissa Jackson is a highly creative and passionate chef with a flair for infusing bold flavors into her dishes. With over a decade of experience in the culinary arts, she has honed her skills in both traditional and modern cooking techniques. Melissa has a particular interest in using locally sourced, seasonal ingredients to create dishes that are both delicious and sustainable. Her innovative approach to cooking has earned her a loyal following among foodies, and she continues to push the boundaries of what is possible in the kitchen."
+  },
+  {
+    "id": 8888,
+    "chef_picture": "https://pbs.twimg.com/media/EbYgiwLXgAApYzV.jpg",
+    "chef_name": "Michael Johnson",
+    "years_of_experience": 15,
+    "num_recipes": 4,
+    "likes": 1100,
+    "bio": "Michael Johnson is a highly skilled chef with over 15 years of experience in the culinary industry. He specializes in creating bold and flavorful dishes that draw inspiration from a variety of cultures and cuisines. Chef Johnson is passionate about using fresh, locally sourced ingredients to create unique and innovative menus that showcase his creativity and expertise. He has worked in some of the most prestigious kitchens in the country and has won numerous awards and accolades for his culinary talents. In his free time, Chef Johnson enjoys exploring new recipes and experimenting with new ingredients in his own kitchen."
+  }
+]
